@@ -14,6 +14,7 @@
   overflow: hidden;
   align-items: center;
   flex-shrink: 0;
+  padding-top: 8rem;
   padding-left: 15rem;
   padding-right: 15rem;
   padding-bottom: 8rem;
@@ -227,7 +228,7 @@
     border-width: 0px;
   }
   .block-k3-text01 {
-    color: #ff0a0a;
+    color: var(--dl-color-default-gray1);
   }
   .block-k3-text02 {
     font-size: 24px;
@@ -258,7 +259,7 @@
     align-self: flex-start;
   }
   .block-k3-text01 {
-    color: #79c345;
+    color: var(--dl-color-default-gray1);
   }
   .block-k3-contentright {
     width: 100%;
