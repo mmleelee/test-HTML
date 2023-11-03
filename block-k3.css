@@ -11,13 +11,11 @@
   width: 100%;
   height: auto;
   display: flex;
-  padding: 104px 217px;
   overflow: hidden;
   align-items: center;
   flex-shrink: 0;
-  padding-top: 8rem;
-  padding-left: 6rem;
-  padding-right: 6rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
   padding-bottom: 8rem;
   justify-content: center;
   background-color: rgba(255, 255, 255, 1);
@@ -204,6 +202,7 @@
     align-self: center;
   }
   .block-k3-img1 {
+    flex: initial;
     height: 792px;
   }
 }
@@ -226,6 +225,9 @@
   }
   .block-k3-rectangle3 {
     border-width: 0px;
+  }
+  .block-k3-text01 {
+    color: #ff0a0a;
   }
   .block-k3-text02 {
     font-size: 24px;
